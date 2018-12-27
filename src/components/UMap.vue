@@ -1,6 +1,7 @@
 <template>
   <div class="umap">
     <iframe
+      title="UMap Welcome Map of Annecy"
       width="100%"
       height="100%"
       frameBorder="0"
