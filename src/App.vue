@@ -57,7 +57,6 @@ a {
   font-weight: bold;
   color: #2c3e50;
   display: block;
-  padding: 0 5px;
   text-align: center;
   text-decoration: none;
 }
