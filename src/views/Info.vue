@@ -2,7 +2,7 @@
   <div class="info">
     <div class="presentation">
       <h1>Présentation</h1>
-      <p class="info-paragraph" style="max-width: 700px; margin:0 auto;">
+      <p class="info-paragraph">
         La Welcome Map est un projet de centralisation des données utiles à
         destination des exilés arrivés à Annecy. Le projet Welcome Map a débuté
         de façon bénévole en 2016 à Paris, et a été répliqué dans d'autres
@@ -27,7 +27,7 @@
     <br />
     <div class="project">
       <h1>Crédit</h1>
-      <p>
+      <p class="info-paragraph">
         Réalisation des cartes par Anne-Elise Lenne ( Fond de carte par
         <a
           target="_blank"
@@ -49,3 +49,11 @@
     </div>
   </div>
 </template>
+
+<style>
+.info-paragraph {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 5px;
+}
+</style>
